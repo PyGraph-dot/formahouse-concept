@@ -1,0 +1,10 @@
+node_modules/
+.next/
+out/
+dist/
+*.log
+.env*
+.DS_Store
+
+# Keep safe environment-variable examples in version control.
+!.env.example
